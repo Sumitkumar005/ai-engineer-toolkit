@@ -15,7 +15,7 @@ You will find every popular framework, tool, and resource to ship one AI project
   
 - If you need **inspiration**, check out example projects inside the [sandbox](./sandbox). 
   
-- If you are **ready to build**, check out the table below.
+- If you are **ready to build**, check out the table below..
   
 - If you want **more guidance**, check out the upcoming [AI Engineering Bootcamp](https://dub.sh/Z0JHySz) that starts on March 10th, 2025.  
 
